@@ -1,0 +1,2 @@
+FROM golang:1.13-alpine AS BASE_IMG
+ARG GO111MODULE=on
